@@ -28,7 +28,7 @@ qr-code-generator/
 ## 📺 Demo
 
 Watch the video walkthrough on YouTube:  
-👉 [https://www.youtube.com/watch?v=IbHMSGKzDaA](https://www.youtube.com/watch?v=IbHMSGKzDaA)
+👉 [https://www.youtube.com/watch?v=IbHMSGKzDaA](https://www.youtube.com/watch?v=IbHMSGKzDaA) Right-click → “Open in new tab”
 
 
 ---
